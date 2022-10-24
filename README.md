@@ -1,5 +1,5 @@
 # Analysis of Twitter discourse on Russia’s invasion of Ukraine
-Personal Project
+Author: Malika Parkhomchuk
 
 Tools and Technologies: Python, tweepy, Twitter API, nltk, numpy, networkx, matplotlib, plotly, pandas, RegEx, sklearn, pyLDAvis, langid, gensim, seaborn, Topic Modeling
 
