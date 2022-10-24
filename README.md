@@ -5,4 +5,4 @@ Tools and Technologies: Python, tweepy, Twitter API, nltk, numpy, networkx, matp
 
 Discovered 12 prominent topics of international discourse on Twitter by collecting 2 million English-language Tweets related to Russia’s war in Ukraine and using LDA Topic Modeling in order to evaluate the influence of Russian propaganda about the war in Ukraine. (April ‘22)
 
-I have also atteched the paper that I have written using the analysis of collected data.
+I have also attached the paper that I have written using the analysis of collected data.
